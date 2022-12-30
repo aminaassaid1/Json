@@ -1,8 +1,9 @@
 [
     {
-        "post":"",
+        "poster":"img/The End of Evangelion.jpg",
         "title":"The End of Evangelion ",
-        "l'anné": 1997 ,
+        "RDate": 1997 ,
+        "director" : "Anno and Kazuya Tsurumak" ,
         "lasts":"1h 30m",
         "festival":[
            "Cairo International Film Festival",
@@ -11,25 +12,26 @@
         "actor":[
             {
 
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
+                "FName":" Megumi Ogata" ,
+                "nationality":"(japonais)"
             }, 
             {
 
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
+                "FName":"Kotono Mitsuishi" ,
+                "nationality":"(japonais)"
             },
             {
 
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
+                "FName":"Megumi Hayashibara" ,
+                "nationality":"(japonais)"
             }
         ]
     },
     {
-        "post":"",
+        "poster":"img/Metropolis.webp",
         "title":"Metropolis",
-        "l'anné":2001 ,
+        "RDate":2001 ,
+        "director" : "Osamu Tezuka",
         "lasts":"1h 48m",
         "festival":[
            "Cairo International Film Festival",
@@ -38,25 +40,26 @@
         "actor":[
             {
 
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
+                "FName":" Ken Watanabe" ,
+                "nationality":"(japonais)"
             }, 
             {
 
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
+                "FName":" Shōma Kai" ,
+                "nationality":"(japonais)"
             },
             {
 
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
+                "FName":" Teruhiko Aoi" ,
+                "nationality":"(japonais)"
             }
         ]
     }, 
     {
-        "post":"",
+        "poster":"img/First Squa.jpg",
         "title":"First Squad : The Moment of Truth",
-        "l'anné":2009 ,
+        "RDate":2009 ,
+        "director" : "Misha Shprits",
         "lasts":"1h 15m",
         "festival":[
            "Cairo International Film Festival",
@@ -65,25 +68,26 @@
         "actor":[
             {
 
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
+                "FName":"Yūko Miyamura" ,
+                "nationality":"(japonais)"
             }, 
             {
 
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
+                "FName": "Akira Ishida" ,
+                "nationality":"(japonais)"
             },
             {
 
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
+                "FName":" Fumihiko Tachiki" ,
+                "nationality":"(japonais)"
             }
         ]
     }, 
     {
-        "post":"",
+        "poster":"img/Yu-Gi-Oh.jpg",
         "title":"Yu-Gi-Oh",
-        "l'anné":2004 ,
+        "RDate":2004 ,
+        "director" : "Kazuki Takahashi",
         "lasts":"2h 20m",
         "festival":[
            "Cairo International Film Festival",
@@ -92,52 +96,27 @@
         "actor":[
             {
 
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
+                "FName":"Motomu Kiyokawa" ,
+                "nationality":"(japonais)"
             }, 
             {
 
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
+                "FName":" Yuriko Yamaguchi" ,
+                "nationality":"(japonais)"
             },
             {
 
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
+                "FName":" Hiro Yuki" ,
+                "nationality":"(japonais)"
             }
         ]
     }, 
+  
     {
-        "post":"",
-        "title":"First Squad : The Moment of Truth",
-        "l'anné":2009 ,
-        "lasts":"1h 15m",
-        "festival":[
-           "Cairo International Film Festival",
-           " Dockanema"
-        ],
-        "actor":[
-            {
-
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
-            }, 
-            {
-
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
-            },
-            {
-
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
-            }
-        ]
-    }, 
-    {
-        "post":"",
-        "title":"La Traversée du temps",
-        "l'anné":2007 ,
+        "poster":"img/la_traversee_du_temps_vo_848.webp",
+        "title":"The Girl Who Leapt Through Time",
+        "RDate":2007 ,
+        "director" : " Mamoru Hosoda",
         "lasts":"1h 45m",
         "festival":[
            "Cairo International Film Festival",
@@ -146,25 +125,26 @@
         "actor":[
             {
 
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
+                "FName":"Takehito Koyasu" ,
+                "nationality":"(japonais)"
             }, 
             {
 
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
+                "FName":" Miki Nagasawa" ,
+                "nationality":"(japonais)"
             },
             {
 
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
+                "FName":" Mugihito" ,
+                "nationality":"(japonais)"
             }
         ]
     },
     {
-        "post":"",
+        "poster":"img/she-and-her-cat.jpg",
         "title":"She and Her Cat ",
-        "l'anné":1999,
+        "RDate":1999,
+        "director" : "Makoto Shinkai",
         "lasts":"1h 45m",
         "festival":[
         "Cairo International Film Festival",
@@ -173,25 +153,26 @@
             "actor":[
                 {
     
-                    "full name":" Ken Watanabe" ,
-                    "nationalité":"japonais"
+                    "FName":" Kōichi Yamadera" ,
+                    "nationality":"(japonais)"
                 }, 
                 {
     
-                    "full name":" Shōma Kai" ,
-                    "nationalité":"japonais"
+                    "FName":" Megumi Hayashibara" ,
+                    "nationality":"(japonais)"
                 },
                 {
     
-                    "full name":" Teruhiko Aoi" ,
-                    "nationalité":"japonais"
+                    "FName":" Maria Kawamura" ,
+                    "nationality":"(japonais)"
                 }
             ]  
     },
     {
-        "post":"",
+        "poster":"img/Princesse Mononoké.jpg",
         "title":"Princesse Mononoké",
-        "l'anné":1997 ,
+        "RDate":1997 ,
+        "director" : "Hayao Miyazaki",
         "lasts":"1h 30m",
         "festival":[
            "Cairo International Film Festival",
@@ -200,25 +181,26 @@
         "actor":[
             {
 
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
+                "FName":"Kei Kobayashi" ,
+                "nationality":"(japonais)"
             }, 
             {
 
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
+                "FName":" Yuka Imoto" ,
+                "nationality":"(japonais)"
             },
             {
 
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
+                "FName":" Kōsei Tomita" ,
+                "nationality":"(japonais)"
             }
         ]
     },
     {
-        "post":"",
+        "poster":"img/Perfect Blue.jpg",
         "title":"Perfect Blue",
-        "l'anné":1997 ,
+        "RDate" : 1997 ,
+        "director" : "Satoshi Kon",
         "lasts":"1h 30m",
         "festival":[
            "Cairo International Film Festival",
@@ -227,25 +209,26 @@
         "actor":[
             {
 
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
+                "FName":" Hiroaki Okada" ,
+                "nationality":"(japonais)"
             }, 
             {
 
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
+                "FName":" Tarô Ishida" ,
+                "nationality":"(japonais)"
             },
             {
 
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
+                "FName":" Norio Wakamoto" ,
+                "nationality":"(japonais)"
             }
         ]
     },
     {
-        "post":"",
+        "poster":"img/The Garden of Sinners.jpg",
         "title":"The Garden of Sinners",
-        "l'anné":2000 ,
+        "RDate":2000 ,
+        "director" : "Takahiro Miura",
         "lasts":"1h 30m",
         "festival":[
            "Cairo International Film Festival",
@@ -254,25 +237,26 @@
         "actor":[
             {
 
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
+                "FName":" Norihiro Inoue" ,
+                "nationality":"(japonais)"
             }, 
             {
 
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
+                "FName":" Masaru Ikeda" ,
+                "nationality":"(japonais)"
             },
             {
 
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
+                "FName":" Toshio Furukawa" ,
+                "nationality":"(japonais)"
             }
         ]
     },
     {
-        "post":"",
+        "poster":"img/HAL.jpg",
         "title":"HAL",
-        "l'anné":2013 ,
+        "RDate":2013 ,
+        "director" : "Ryoutarou Makihara",
         "lasts":"1h 30m",
         "festival":[
            "Cairo International Film Festival",
@@ -281,18 +265,18 @@
     "actor":[
             {
 
-                "full name":" Ken Watanabe" ,
-                "nationalité":"japonais"
+                "FName":" Takeshi Aono" ,
+                "nationality":"(japonais)"
             }, 
             {
 
-                "full name":" Shōma Kai" ,
-                "nationalité":"japonais"
+                "FName":" Junpei Takiguchi" ,
+                "nationality":"(japonais)"
             },
             {
 
-                "full name":" Teruhiko Aoi" ,
-                "nationalité":"japonais"
+                "FName":" Shun Yashiro" ,
+                "nationality":"(japonais)"
             }
         ]
     }
